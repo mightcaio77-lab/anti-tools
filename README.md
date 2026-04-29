@@ -11,6 +11,16 @@ Anti Tools is a VS Code extension developed for Antigravity AI IDE, providing mu
 
 ---
 
+
+## 🇧🇷 Assistente de agendamento com AI
+
+Transforme o caos do calendário em produtividade organizada com o assistente inteligente de agendamento.
+
+- **Priorização inteligente**: organiza tarefas por urgência, contexto e disponibilidade.
+- **Sugestões automáticas**: recomenda horários ideais para foco, reuniões e pausas.
+- **Lembretes proativos**: evita conflitos e reduz esquecimentos com alertas inteligentes.
+- **Fluxo contínuo**: sincroniza compromissos e mantém sua rotina sempre atualizada.
+
 ## 🌟 Core Features
 
 ### 🔐 Intelligent Account & Schedule Management
