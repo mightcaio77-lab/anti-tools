@@ -82,6 +82,28 @@ Anti Tools is a VS Code extension developed for Antigravity AI IDE, providing mu
 
 ---
 
+
+## ✅ Suggested Next Tasks (Execution Plan)
+
+To help you turn this into a delivery roadmap, here is a practical priority list:
+
+### P0 — Release Readiness
+- [ ] Add a **Quick Start** section (install, minimum settings, first successful `/status`).
+- [ ] Add a **Compatibility Matrix** (Windows/macOS × feature availability).
+- [ ] Add a **Troubleshooting** section for common setup failures (token, whitelist, guardian startup, CDP port).
+
+### P1 — Quality & Safety
+- [ ] Add a **Test Checklist** for key user journeys (account switch, model switch, screenshot, export).
+- [ ] Document **security boundaries** for remote commands (`/cmd`, `/file_get`, unlock flow).
+- [ ] Add **observability notes** (where logs live, what to capture when reporting bugs).
+
+### P2 — Maintenance & Adoption
+- [ ] Add **versioned changelog highlights** with migration notes for breaking changes.
+- [ ] Add **contribution guide** (issue template, bug reproduction format, PR checklist).
+- [ ] Add **demo GIFs/screenshots** for top workflows (bot control, model select, markdown export).
+
+---
+
 ## 🌐 Language / 语言
 
 The extension interface and Telegram Bot support **English and Chinese**. Language is auto-detected from your IDE locale, or you can manually set it in the extension settings.
